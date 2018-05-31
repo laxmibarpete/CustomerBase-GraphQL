@@ -1,0 +1,20 @@
+{
+  "name": "custom-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon --exec babel-node -- server.js",
+    "json:server":"json-server --watch ./src/data.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "nodemon": "^1.17.5"
+  }
+}

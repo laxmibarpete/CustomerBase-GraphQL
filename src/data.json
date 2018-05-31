@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": "101",
+      "name": "Laxmi Barpete"
+    },
+    {
+      "id": "103",
+      "name": "atul",
+      "age": 25
+    },
+    {
+      "name": "Golu",
+      "age": 23,
+      "email": "@gmail.com",
+      "id": "HC5qopD"
+    }
+  ]
+}
